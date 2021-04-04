@@ -1,0 +1,301 @@
+.col-md-6 .firdiv{
+    background-image:linear-gradient(to right,rgb(102, 163, 255),rgb(6, 60, 141));
+    height: 316px;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    padding: 25px ;
+}
+.col-md-6 .seconddiv{   
+    font-size: 16px;
+    font-family: monospace;
+    margin: 16px;
+    word-spacing: -6px;
+}
+.row  .thirddiv{
+    font-size: 16px;
+    margin: 30px;
+    font-family: monospace;
+    word-spacing: -6px;
+}
+.fourthdiv{
+    font-size: 16px;
+    margin: 30px;
+    font-family: monospace;
+    word-spacing: -6px;
+}
+.doctor{
+    margin: 35px;
+    font-size: 26px;
+    color: rgb(0, 230, 172);
+}
+ .doctorvidya{
+    background-color: rgb(245,245,245);
+    margin: 40px;
+}
+.dvidya{
+    margin: 10px;
+    margin-top: 88px;
+}
+.intro{
+    padding-left: 33px;
+    color:  rgb(51, 133, 255);
+    font-size: 20px;
+}
+.qualiintro{
+    color:  rgb(51, 133, 255);
+    padding-left: 8px;
+    font-size: 12px;
+}
+.desgnintro{
+    color:  rgb(51, 133, 255);
+    padding-left: 25px;
+}
+.horizantal{
+    width:20%;
+    text-align:center;
+    height:1px;
+     margin-left:89px;
+     color: rgb(0, 230, 172);
+    background-color: rgb(0, 230, 172);
+}
+.knowmorebutton{
+      background-image:linear-gradient(to right,rgb(102, 163, 255),rgb(6, 60, 141));
+      margin-left: 100px;
+}
+.para{
+    padding-top :404px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.para1{
+    padding-top: 316px;
+    margin-left: 83px;
+    margin-right: 50px;
+}
+.divfifth{
+    /* display: -webkit-inline-box; */
+}
+.imgclass{
+    float: right;
+}
+.divsixth{
+    margin-left: 41px;
+    margin-right: -82px;
+}
+.imgindicator{
+    padding-left: 70px;
+}
+.doctor1{
+    margin-left: 144px;
+    margin-top: 15px;
+}
+.seventhdiv{
+    background-color:rgb(248,248,248);
+    width: 100%;
+}
+.doctor2{
+    color: rgb(0, 230, 172);
+    margin-left: 144px;
+    font-size: 26px;
+}
+.johnclass{
+background-color: rgb(255,255,255);
+margin-left: 50px;
+}
+.horiz{
+    width:20%;
+    text-align:center;
+    height:10px;
+}
+.johnpara{
+    margin: 20px;
+}
+.bookbutton{
+    background-color: rgb(6, 60, 141);
+    margin-left: 550px;
+}
+.footer{
+    background-color:rgb(56,56,56);
+    width: 100%;
+    height: 200px;
+}
+.footer1{
+    color : white;
+    text-align: center;
+}
+.horiz1{
+    width:80%;
+    color: white;
+    margin-left: 126px;
+}
+@media only screen and (max-width: 600px) {
+    body{
+        overflow-x: hidden;
+    }
+    .responsive .row .col-md-5{
+        width: 50%;
+    }
+    .responsive .row .col-md-6 .firdiv {
+        height: auto;
+        padding: 10px;
+    }
+    .responsive .row .col-md-6 .seconddiv {
+        margin-right: -7px;
+    }
+    .responsive .row .thirddiv  {
+        padding-left: 0px;
+    }
+    .doctor{
+        margin-left: 35px;
+        margin-top: -10px;
+    }
+    .doctorvidya {
+        background-color: rgb(245,245,245);
+        margin: 0px;
+        height: 500px;
+    }
+    .dvidya img.responsive {
+        margin-top: -50px;
+        width :200px;
+    }
+    * .intro{
+        padding-left: 17px;
+        font-size: 20px;
+    }
+    .qualiintro {
+        padding-left: 14px;
+        font-size: 11px;
+    }
+    .desgnintro {
+        padding-left: 13px;
+    }
+    .horizantal {
+        margin-left: 71px;
+    }
+    .para {
+        padding-top: 0;
+        margin-left: 13px;
+        margin-right: 0px;
+    }
+    .knowmorebutton {
+        margin-left: 50px;
+    }
+    .responsive .row div.divresponsive .qualiintro{
+        margin-top: -315px;
+        margin-left: -60px;   
+    }
+    .responsive .row div.divresponsive .desgnintro {
+        margin-left: -50px;
+    }
+    .responsive .row div.divresponsive .horizantal {
+        margin-left: 15px;
+    }
+    .responsive .row p.responsive{
+        margin-left: -53px;
+    }
+    .responsive .para1 .knowmorebutton{
+        margin-left :-20px;
+    }
+    .imgclass {
+        float: right;
+        margin-top: -30px;
+    }
+    .divsixth {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .imgindicator{
+        padding-left :20px;
+    }
+    .responsivep {
+        margin-top: -20px;
+        margin-left: 24px;
+    }
+    .doctor2{
+        margin-left: 40px;
+    }
+    .doctor1 {
+        margin-left: 29px;
+    }
+    .johnclass {
+        margin-left: 27px;
+        width: 80%;
+    }
+    .johnclass .row .col-md-3{
+    padding-left: 50px;
+    margin-top: 10px;
+    }
+    .johnpara {
+        margin: 0px;
+        margin-top: -29px;
+    }
+    .horiz1 {
+        width: 80%;
+        margin-left: 23px;
+    }
+    .footer{
+    width: 100%;
+    height: auto;
+    }
+    .seventhdiv {
+        height: 770px;
+    }
+    .responsive .row .col-md-5 img.imgresponsive{
+        width: 258%;
+        margin-left: -15px;
+    }
+    .mainimg {
+        height: 540px !important;
+    }
+    .top-left{
+        padding-top : 12px !important;
+        left: 15px !important;
+    }
+    .top-right {
+        top: 210px !important;
+        right: 13px !important;
+        width: 249px !important;
+    }
+    .bottom-left {
+        bottom: 100px !important;
+        left: 15px !important;
+        font-size: 14px !important;
+    }
+    .fotterclass {
+        margin-left: 68px !important;
+    }
+
+
+}
+.mainimg{
+    background-image: linear-gradient(rgb(0, 138, 230),rgb(61, 92, 92));
+    width :100%;
+    height: 500px; 
+}
+.top-left {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 120px;
+    left: 150px;
+    font-size: 25px;
+    color: white;
+  }
+  .top-right {
+    position: absolute;
+    top: 30px;
+    right: 150px;
+    background-color: white;
+    width:250px;
+  }
+  form{
+      margin: 20px;
+  }
+  .fotterclass{
+     margin-left : 600px;
+  }
